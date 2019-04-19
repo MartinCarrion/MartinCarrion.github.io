@@ -6,28 +6,27 @@ body{
     color:silver;
 
 }
-.tababout{
-    float:left;
-    
-    background-color:silver;
-    text-decoration:none
-
+.tababout {
+    float: left;
+    width: 25%;
+    background-color: silver;
+    text-decoration: none
 }
 .tabProjects {
     float: left;
-    
+    width:25%;
     background-color: silver;
     text-decoration: none
 }
 .tabSkills {
     float: left;
-   
+    width: 25%;
     background-color: silver;
     text-decoration: none
 }
 .tabEmployment {
     float: left;
-   
+    width: 25%;
     background-color: silver;
     text-decoration: none
 }

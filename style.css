@@ -8,30 +8,26 @@ body{
 }
 .tababout{
     float:left;
-    width:25%;
-    height:500px;
+    
     background-color:silver;
     text-decoration:none
 
 }
 .tabProjects {
     float: left;
-    width: 25%;
-    height: 500px;
+    
     background-color: silver;
     text-decoration: none
 }
 .tabSkills {
     float: left;
-    width: 25%;
-    height: 500px;
+   
     background-color: silver;
     text-decoration: none
 }
 .tabEmployment {
     float: left;
-    width: 25%;
-    height: 500px;
+   
     background-color: silver;
     text-decoration: none
 }

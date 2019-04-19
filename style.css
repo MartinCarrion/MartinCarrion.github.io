@@ -1,5 +1,6 @@
 body{
     background-color:lightgray;
+    text-decoration:none;
 }
 .profilename{
     color:silver;
@@ -10,5 +11,6 @@ body{
     width:25%;
     height:500px;
     background-color:silver;
+    text-decoration:none
 
 }

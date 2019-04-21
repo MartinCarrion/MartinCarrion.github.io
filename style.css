@@ -44,3 +44,10 @@ a{
 a:visited{
     color:none;
 }
+a:hover{
+    color:white;
+}
+.ProfilePic{
+    width:200px;
+
+}

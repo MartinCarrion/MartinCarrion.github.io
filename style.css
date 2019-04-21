@@ -1,5 +1,5 @@
 body{
-    background-color:skyblue;
+    background-color:aliceblue;
     text-decoration:none;
 }
 .profilename{
@@ -9,28 +9,28 @@ body{
 .tababout {
     float: left;
     width: 25%;
-    background-color: silver;
+    background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabProjects {
     float: left;
     width: 25%;
-    background-color: silver;
+    background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabSkills {
     float: left;
     width: 25%;
-    background-color: silver;
+    background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabEmployment {
     float: left;
     width: 25%;
-    background-color: silver;
+    background-color: teal;
     text-decoration: none;
     list-style:none
 }

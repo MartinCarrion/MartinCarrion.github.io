@@ -34,3 +34,12 @@ body{
     text-decoration: none;
     list-style:none
 }
+ul{
+    list-style-type:none;
+}
+a{
+    color:lightgray;
+}
+a:visited{
+    color:none;
+}

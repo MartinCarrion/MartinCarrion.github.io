@@ -11,35 +11,35 @@ body{
 }
 .Home {
     float: left;
-    width: 16%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tababout {
     float: left;
-    width: 16%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabProjects {
     float: left;
-    width: 16%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabSkills {
     float: left;
-    width: 16%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabEmployment {
     float: left;
-    width: 16%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style:none

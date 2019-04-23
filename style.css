@@ -98,14 +98,20 @@ h1{
     margin-top:75px;
 
 }
-.SoftwareConsultantDate{
-    float:right;
+.SoftwareConsultantDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
 }
-.DatabaseConsultantDate{
-    float:right;
+.DatabaseConsultantDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
 }
-.MarketingAssociateDate{
-    float:right;
+.MarketingAssociateDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
 }
 
 

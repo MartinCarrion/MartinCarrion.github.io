@@ -77,6 +77,24 @@ h1{
     margin-top:75px;
 
 }
+.SoftwareConsultant{
+    font-family:normal;
+    font-style:italic;
+    font-size:large;
+}
+.DatabaseConsultant{
+    font-family:normal;
+    font-style:italic;
+    font-size:large;
+
+}
+.MarketingAssociate{
+    font-family:normal;
+    font-style:italic;
+    font-size:large;
+
+}
+
 
 
 

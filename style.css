@@ -113,6 +113,21 @@ h1{
     font-family: normal;
     font-size: large;
 }
+.InventorySpecialistDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.KeyHolderDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.TrainerDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
 
 
 

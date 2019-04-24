@@ -145,6 +145,7 @@ h1{
     margin-top:75px;
 }
 .Information {
+    color:lightgray;
     position:absolute;
     bottom:0;
     left:0;
@@ -153,6 +154,16 @@ h1{
     background-color: teal;
     text-decoration: none;
     list-style: none
+}
+.Facebook{
+    position:absolute;
+    bottom:10px;
+    left:10px;
+}
+.LinkedIn{
+    position:absolute;
+    bottom:10px;
+    left:20px;
 }
 
 

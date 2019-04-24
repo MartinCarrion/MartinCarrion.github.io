@@ -145,12 +145,12 @@ h1{
     margin-top:75px;
 }
 .Information {
-    float: left;
+    bottom:100%;
     width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
-}
+
 
 

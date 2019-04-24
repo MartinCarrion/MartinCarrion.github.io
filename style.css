@@ -6,30 +6,40 @@ body{
     color:silver;
 
 }
+.TitleWebsite{
+
+}
+.Home {
+    float: left;
+    width: 20%;
+    background-color: teal;
+    text-decoration: none;
+    list-style: none
+}
 .tababout {
     float: left;
-    width: 25%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabProjects {
     float: left;
-    width: 25%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabSkills {
     float: left;
-    width: 25%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style: none
 }
 .tabEmployment {
     float: left;
-    width: 25%;
+    width: 20%;
     background-color: teal;
     text-decoration: none;
     list-style:none
@@ -48,7 +58,7 @@ a:hover{
     color:white;
 }
 .ProfilePic{
-  
+  margin-bottom:10px;
 
 }
 .BestBuy{
@@ -73,7 +83,66 @@ h1{
     font-style:italic;
     font-size:large;
 }
+.EmploymentHeader{
+    margin-top:75px;
 
+}
+.SoftwareConsultant{
+    font-family:normal;
+    font-style:italic;
+    font-size:large;
+}
+.DatabaseConsultant{
+    font-family:normal;
+    font-style:italic;
+    font-size:large;
 
+}
+.MarketingAssociate{
+    font-family:normal;
+    font-style:italic;
+    font-size:large;
+
+}
+.ProjectsHeader{
+    margin-top:75px;
+
+}
+.SoftwareConsultantDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.DatabaseConsultantDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.MarketingAssociateDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.InventorySpecialistDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.KeyHolderDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.TrainerDate {
+    float: right;
+    font-family: normal;
+    font-size: large;
+}
+.SkillsHeader{
+    margin-top:75px;
+}
+.AboutHeader{
+    margin-top:75px;
+}
 
 

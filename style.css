@@ -144,5 +144,13 @@ h1{
 .AboutHeader{
     margin-top:75px;
 }
+.Information {
+    float: left;
+    width: 20%;
+    background-color: teal;
+    text-decoration: none;
+    list-style: none
+}
+}
 
 

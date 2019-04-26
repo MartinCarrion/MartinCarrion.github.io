@@ -150,7 +150,6 @@ h1{
     bottom:0;
     left:0;
     width: 100%;
-    height:100px;
     background-color: teal;
     text-decoration: none;
     list-style: none
@@ -164,6 +163,11 @@ h1{
     position:absolute;
     bottom:10px;
     left:200px;
+}
+.Handshake{
+    position:absolute;
+    bottom:10px;
+    left:750px;
 }
 
 

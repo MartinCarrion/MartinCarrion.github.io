@@ -59,7 +59,11 @@ a:hover{
 }
 .ProfilePic{
   margin-bottom:10px;
+  border-radius:50%;
 
+}
+img{
+    border-radius:50%;
 }
 .BestBuy{
     list-style-type:circle;
@@ -169,6 +173,7 @@ h1{
     bottom:10px;
     left:750px;
 }
+
 
 
 

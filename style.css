@@ -151,7 +151,7 @@ h1{
 .Information {
     color:lightgray;
     position:absolute;
-    bottom:0;
+    bottom:auto;
     left:0;
     width: 100%;
     background-color: teal;
